@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((${BREATH:-4}**${LOVE:-3}))
+echo $((${BREATH:-0}**${LOVE:-3}))
